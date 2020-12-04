@@ -1,0 +1,2 @@
+include ':glidehelper'
+rootProject.name = "GlideHelper"
